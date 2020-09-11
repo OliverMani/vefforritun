@@ -27,3 +27,6 @@ Hér fyrir neðan er flæðirit um hvernig vefsíðan mun virka:
 ## Útlit á vefsíðunni
 Hér er hægt að sjá hvernig við sjáum fyrir okkur að vefsíðan líti út á símanum:
 ![wireframe](https://media.discordapp.net/attachments/626442010060128257/753985057097777342/unknown.png?width=700&height=934)
+
+## Síðast en ekki síst
+Við munum ekki gera allar bækur en kafla sem maður lærir í skólanum vegna þess að það gefst líklega ekki nægur tími til þess á önninni, en við munum gera eins mikið og við getum til að vefsíðan hjálpi sem mest. Vegna þess að stærðfræði er svo mismunandi eftir hvað þú ert að nota hana í þá getur þetta verkefni verið aðeins flókið, sérstaklega þegar það þarf að forrita sem flestar tegundir af stærðfræðiformúlum, jöfnum og fleira. Tæknivandamál verða rædd í næstu viku og þá getum við hafist handa við að byggja upp þessa frábæru vefsíðu.
