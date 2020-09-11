@@ -1,5 +1,4 @@
 # vefforritun
-<<<<<<< HEAD
 
 ## Verkefnalýsing
 
