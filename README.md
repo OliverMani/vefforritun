@@ -20,5 +20,5 @@ Hér er um að ræða síðuna sem random generate'ar stærðfræði dæmi og se
 ### Tilkynna galla
 Þetta verður bara síða með form þar sem þú getur skrifað inn texta. Mögulega spyrjum við um email og svo bara nota textarea fyrir allt sem notandinn vill láta vita af, email væri til að geta haft samband í gegnum email ef notandinn vill og þörf sé fyrir því.
 
-=======
+## Flæðirit
 ![flæðirit](https://media.discordapp.net/attachments/626442010060128257/753247507127074916/unknown.png)
