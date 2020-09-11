@@ -1,5 +1,17 @@
 # vefforritun
 
+## Lýsing á virkni síðurnar
+Þessi síða er til að hjálpa fólki að læra stæ
+
+Þegar fólk er á forsíðuna sér það allar bækurnar sem er hægt að velja á milli
+svo þegar fólk er búið að velja bók þá fær fólk alskonar valkosti um undir kafla
+svo þegar það er búið að velja undirkafla þá birtast random spurningar sem
+eru með áhveðnar forumlur sem koma frá köflunum.
+Þegar fólk er búið að svara spurninguni þá seigir vefsíðan hvort hann þau höfðu 
+rangt eða rétt fyrir sér.
+
+---
+
 ## Verkefnalýsing
 
 ### Forsíða
