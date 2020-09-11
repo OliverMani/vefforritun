@@ -21,4 +21,9 @@ Hér er um að ræða síðuna sem random generate'ar stærðfræði dæmi og se
 Þetta verður bara síða með form þar sem þú getur skrifað inn texta. Mögulega spyrjum við um email og svo bara nota textarea fyrir allt sem notandinn vill láta vita af, email væri til að geta haft samband í gegnum email ef notandinn vill og þörf sé fyrir því.
 
 ## Flæðirit
+Hér fyrir neðan er flæðirit um hvernig vefsíðan mun virka:
 ![flæðirit](https://media.discordapp.net/attachments/626442010060128257/753247507127074916/unknown.png)
+
+## Útlit á vefsíðunni
+Hér er hægt að sjá hvernig við sjáum fyrir okkur að vefsíðan líti út á símanum:
+![wireframe](https://media.discordapp.net/attachments/626442010060128257/753985057097777342/unknown.png?width=700&height=934)
