@@ -1,7 +1,7 @@
-# vefforritun
+# Vefforritun 4 - Stærðfræði vefsíða
 
 ## Verkefnalýsing
-	Þessi vefsíða verður vefsíða sem býr til stærðfræðidæmi fyrir mann til að leysa sjálfur.
+Þessi vefsíða verður vefsíða sem býr til stærðfræðidæmi fyrir mann til að leysa sjálfur.
 Stærðfræðidæmin verða eins og dæmin í menntaskólastærðfræði, og verða þá byggð á stærðfræðibókum sem notast er við í skólum (munum notast við bækur notaðar í Tækniskólanum til að byrja með). Notandinn fær dæmi, og hann reiknar dæmið og setur svo inn í vefsíðuna inn svarið sem hann fékk og vefsíðan getur þá skoðað það og sagt hvort svarið sé rétt eða ekki. Til að velja tegund af dæmi á að vera hægt að velja bók, kafla og undirkafla. Þetta getur nýst vel til dæmis þegar maður er að læra fyrir stærðfræðibók og maður vill fá önnur dæmi en í bókinni en þó alveg tengt efninu í bókinni. Hér fyrir neðan er lýst hvernig vefsíðan mun virka.
 
 
@@ -11,7 +11,7 @@ Stærðfræðidæmin verða eins og dæmin í menntaskólastærðfræði, og ver
 ### Velja kafla og undirkafla
 Hér verða valmöguleikar um kafla og undirkafla ef það sé í bókinni, þegar maður ýtir á kafla þá birtast undirkaflar fyrir þann kafla sem maður getur valið ef það séu undirkaflar í honum
 
-### Dæmi síða - Aðal hluturinn
+### Dæmi síða - Aðal atriðið
 Hér er um að ræða síðuna sem random generate'ar stærðfræði dæmi og setur inn dæmið upp á skjáinn, notandinn þarf að setja inn svarið sjálfur og fá svo út hvort hans svar hafi verið rétt eða rangt. Á þessar síðu á líka að vera hægt að fara til baka, eða skoða svarið ef það vill (þetta er ekki síða fyrir próf, heldur bara til að æfa sig í stærðfræðinni)
 
 ### Rétt/Rangt síða
@@ -22,4 +22,3 @@ Hér er um að ræða síðuna sem random generate'ar stærðfræði dæmi og se
 
 =======
 ![flæðirit](https://media.discordapp.net/attachments/626442010060128257/753247507127074916/unknown.png)
->>>>>>> 1858039873f9f779fa51e5071bcf9c028a23a57e
