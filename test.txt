@@ -1,2 +1,0 @@
-Hello world, er bara að testa hooks, please ignore!
-1
